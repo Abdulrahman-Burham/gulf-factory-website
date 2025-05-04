@@ -1,13 +1,13 @@
-# Dependencies
-node_modules/
+# System files
+.DS_Store
+Thumbs.db
 
 # IDE files
 .vscode/
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Dependency directories
+node_modules/
 
 # Build files
 dist/
